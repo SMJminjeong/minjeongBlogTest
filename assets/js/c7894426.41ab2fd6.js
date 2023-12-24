@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkminjeong_blog=self.webpackChunkminjeong_blog||[]).push([[649],{6430:l=>{l.exports=JSON.parse('{"allTagsPath":"/minjeongBlog/blog/tags","slug":"/minjeongBlog/blog/tags/hello","name":"hello","count":2,"permalink":"/minjeongBlog/blog/tags/hello"}')}}]);

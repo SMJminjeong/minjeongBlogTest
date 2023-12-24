@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkminjeong_blog=self.webpackChunkminjeong_blog||[]).push([[416],{5056:e=>{e.exports=JSON.parse('{"permalink":"/minjeongBlog/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
