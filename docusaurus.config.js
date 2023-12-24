@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://SMJminjeong.com',
+  url: 'https://SMJminjeong.github.io',
   baseUrl: '/minjeongBlog/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
